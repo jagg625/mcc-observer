@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/jesusarmandoguerragarcia/Documents/workspace/primerProyectoObserver"/>
+		<item value="/Users/jesusarmandoguerragarcia/Documents/workspace/tercerProyectoObserver/ObserverEx"/>
+		<item value="/Users/jesusarmandoguerragarcia/Documents/workspace/segundoProyectoObserver"/>
+		<item value="/Users/jesusarmandoguerragarcia/Documents/workspace/segundoProyectoObserver/ObserverEx"/>
+		<item value="/Users/jesusarmandoguerragarcia/Documents/workspace/primerProyectoObserver/ObserverEx"/>
+	</list>
+</section>
